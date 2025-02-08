@@ -1,0 +1,5 @@
+speechrecognition
+edge-tts
+pygame
+keyboard
+wave
